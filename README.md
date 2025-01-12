@@ -1,3 +1,6 @@
+> [!NOTE]
+> Archived in favor of the .envrc.local pattern described here: https://grimoire.ca/code/direnv-patterns/
+
 # direnv-op
 [direnv](https://direnv.net/) library to load secrets from 1Password
 
